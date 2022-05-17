@@ -5,4 +5,4 @@
 
 Repo for my personal website built using Bootstrap and HTML. Check it out at [here](http://billli.me/). Artwork commissioned by @CrystalLam.
 
-![image](other.png)
+![image](assets/img/other.png)
